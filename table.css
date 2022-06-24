@@ -1,0 +1,77 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: square-peg;
+    
+}
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Josefin+Sans:ital,wght@0,100;0,200;0,300;1,100;1,200;1,300&family=Poppins:wght@300&family=Roboto:ital,wght@1,100&family=Square+Peg&display=swap');
+table{
+    width: 100%;
+}
+th{
+    text-transform: capitalize;
+    text-align: center;
+    border-radius: 5px;
+}
+td{
+    text-align: center;
+    border-radius: 5px;
+}
+#head{
+    line-height: 25px;
+    font-size: 10px;
+    text-align: center;
+    padding-top: 50px;
+    color: #FFF8F3;
+    font-size: 15px;
+}
+table{
+    border: 1;
+    border-spacing: 5px;
+    padding: 2px;
+    /* border-spacing: 5px; */
+    border-radius: 7px;
+    background-color: white;
+    height: 500px;
+
+}
+body{
+    /* background-color:#D18CE0; */
+    /* background: linear-gradient(120deg, #541690 60%, #9900F0 60%); */
+}
+.box{
+     background: linear-gradient(120deg, #541690 60%, #9900F0 60%);
+     align-items: center;
+     justify-content: center;
+     text-align: center;
+     padding-bottom: 40px;
+     
+}
+.table1{
+    padding: 20px;
+    height: 600px;
+    align-items: center;
+    justify-content: center;
+
+    
+}
+.row1{
+    background-color: #371B58;
+    color: #FFF8F3;
+    
+}
+.row2{
+    background-color: #371B58;
+    color: #FFF8F3;
+}
+.row{
+    background-color: #FFF8F3;
+    color: #371B58;
+    
+}
+span{
+    color: #FFF8F3;
+}
+.score{
+    background: #D9D7F1;
+}
